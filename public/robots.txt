@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://birminghamfixandflip.loansapp.cfd/sitemap.xml
